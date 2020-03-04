@@ -9,6 +9,7 @@ Import the Fonts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+@import url('https://fonts.google.com/specimen/DM+Serif+Display');
 
 
 .positioningdiv {
@@ -44,5 +45,13 @@ nav ul li {
 }
 
 hr {
-    width: 100px;
+    width: 120px;
+    margin-bottom: 3em;
+}
+
+#sect1 h1 {
+    color: white;
+    font-family: 'DM Serif Display', serif;
+    font-size: 3.5em;
+    width: 400px;
 }
